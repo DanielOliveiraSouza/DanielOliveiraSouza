@@ -13,5 +13,5 @@ I am a computer scientist, passionate about task automation, mainly using shells
 
 <p  align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danieloliveirasouza&?count_private=true&show_icons=true&theme=radical"  alt="https://github.com/danieloliveirasouza/github-readme-stats" height="138px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieloliveirasouza&layout=compact&count_private=true&show_icons=true&theme=radical"  alt="https://github.com/danieloliveirasouza/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieloliveirasouza&layout=compact&count_private=true&show_icons=true&theme=radical&hide=pascal"  alt="https://github.com/danieloliveirasouza/github-readme-stats">
  </p>
